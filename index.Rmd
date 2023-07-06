@@ -52,6 +52,7 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 |  |  |
 |:------------------------------------------------|:--------------------|
 | `r fontawesome::fa("flask", fill = "#800020")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#800020")` **Bioinformatic**  |
+| --- | --- |
 | hiPSC Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` |
 | Directed Organoid Differentiation | bash/linux/HPC `r fontawesome::fa("linux", fill = "gray")` |
 | Immunofluorescent Staining | sc/snRNA-seq Analyses |
