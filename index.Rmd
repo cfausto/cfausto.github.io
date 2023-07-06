@@ -22,6 +22,7 @@ library(fontawesome)
 <br>
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
+---
 
 ## Research Focus
 <br>
@@ -29,9 +30,9 @@ I currently study human kidney development in the [Lindström Lab](https://linds
 
 I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
 
+---
 
 ### Education
-<br>
 
 |  |  |
 |:---------------------------------------------|:----------------|
@@ -43,16 +44,16 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 |<br>|   |
 | **University of Southern California, Los Angeles** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
-<br>
+
+---
 
 ## Technical Skills
-<br>
 
 |  |  |
 |:------------------------------------------------|:--------------------|
-| **Experimental** | **Bioinformatic** |
-| hiPSC Cell Culture | R |
-| Directed Organoid Differentiation | bash/linux/HPC |
+| `r fontawesome::fa("flask", fill = "#800020")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#800020")` **Bioinformatic**  |
+| hiPSC Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` |
+| Directed Organoid Differentiation | bash/linux/HPC `r fontawesome::fa("linux", fill = "gray")` |
 | Immunofluorescent Staining | sc/snRNA-seq Analyses |
 | Microsurgery Dissection (<100µm) | sc/snRNA-seq Analyses |
 | Live Tissue Imaging | sc/snATAC-seq Analyses |
@@ -60,8 +61,17 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 | RNA Isolation and cDNA Synthesis | FIJI |
 | scRNA-seq library prep | Imaris |
 | Genotyping with PCR and Western blot ||
-<br>
+
+---
 
 ## In the Press
 <br>
 June 2023 \| [USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX](https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/) 
+
+---
+
+### Hobbies
+<br>
+You can usually find me surfing, rock-climbing, or training brazilian jiu-jitsu! I also love cooking and yoga.
+
+![Left: Joshua Tree Feb 2023, Topright: El Porto Winter 2019, Rightmiddle: April 2023, Bottomright: Malibu Jan 2023](CCF-Hobbies.png){width=90%}
