@@ -2,13 +2,13 @@
 title: "Connor Fausto"
 image: "CCF-Profile-Pic.png"
 links:
-  - label: '`r fontawesome::fa("envelope", fill = "#63D4FD")` Email'
+  - label: '`r fontawesome::fa("envelope", fill = "#3FB8E0")` Email'
     url: "mailto:cfausto@usc.edu"
   - label: '`r fontawesome::fa("graduation-cap", fill = "#63D4FD")` CV'
     url: "https://bit.ly/CCF_CV_2023-07-06"
-  - label: '`r fontawesome::fa("twitter", fill = "#63D4FD")` Twitter'
+  - label: '`r fontawesome::fa("twitter", fill = "#3FB8E0")` Twitter'
     url: "https://twitter.com/connfau"
-  - label: '`r fontawesome::fa("linkedin", fill = "#63D4FD")` LinkedIn'
+  - label: '`r fontawesome::fa("linkedin", fill = "#3FB8E0")` LinkedIn'
     url: "https://www.linkedin.com/in/connor-fausto-187847128/"
   - label: '`r fontawesome::fa("github-square", fill = "#63D4FD")` GitHub'
     url: "https://github.com/cfausto"
@@ -56,7 +56,7 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 
 |  |  |
 |:------------------------------------------------|:--------------------|
-| `r fontawesome::fa("flask", fill = "#63D4FD")` **Experimental**  | `r fontawesome::fa("bar-chart-o", fill = "#63D4FD")` **Bioinformatic**  |
+| `r fontawesome::fa("flask", fill = "#63D4FD")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#63D4FD")` **Bioinformatic**  |
 | hiPSC Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` |
 | Directed Organoid Differentiation | bash/linux/HPC `r fontawesome::fa("linux", fill = "gray")` |
 | Immunofluorescent Staining | sc/snRNA-seq |
