@@ -6,6 +6,8 @@ links:
     url: "mailto:cfausto@usc.edu"
   - label: '`r fontawesome::fa("graduation-cap", fill = "#800020")` CV'
     url: "https://bit.ly/CCF_CV_2023-07-06"
+  - label: '`r fontawesome::fa("twitter", fill = "#800020")` Twitter'
+    url: "https://twitter.com/connfau"
   - label: '`r fontawesome::fa("linkedin", fill = "#800020")` LinkedIn'
     url: "https://www.linkedin.com/in/connor-fausto-187847128/"
   - label: '`r fontawesome::fa("github-square", fill = "#800020")` GitHub'
