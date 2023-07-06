@@ -14,7 +14,7 @@ output:
  
 ## Bio
 
-Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine.
+Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine. I am in the Lindström Lab.
 
 ## Education
 
