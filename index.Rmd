@@ -26,7 +26,7 @@ Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine 
 
 ## Research Focus
 <br>
-I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. I hope to leverage *in vitro* hiPSC kidney organoids, and multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
+I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. I hope to leverage *in vitro* hiPSC kidney organoids, multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
 
 I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
 
@@ -38,6 +38,9 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 |:---------------------------------------------|:----------------|
 | **University of Southern California, Los Angeles** | [2023 - ]{style="float:right"} |
 | Ph.D. in Development, Stem Cells, and Regenerative Medicine |
+|<br>|   |
+| **Cold Spring Harbor Laboratory, New York** | [Summer 2023]{style="float:right"} |
+| Statistical Analysis of Genome Scale Data |
 |<br>|   |
 | **University of Southern California, Los Angeles** | [2020 - 2021]{style="float:right"}  |
 | M.Sc. in Stem Cell Biology and Regenerative Medicine ||
@@ -54,10 +57,10 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 | `r fontawesome::fa("flask", fill = "#800020")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#800020")` **Bioinformatic**  |
 | hiPSC Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` |
 | Directed Organoid Differentiation | bash/linux/HPC `r fontawesome::fa("linux", fill = "gray")` |
-| Immunofluorescent Staining | sc/snRNA-seq Analyses |
-| Microsurgery Dissection (<100µm) | sc/snRNA-seq Analyses |
-| Live Tissue Imaging | sc/snATAC-seq Analyses |
-| Confocal and Widefield Microscopy | bulkRNA-seq Analyses |
+| Immunofluorescent Staining | sc/snRNA-seq |
+| Microsurgery Dissection (<100µm) | sc/snATAC-seq |
+| Live Tissue Imaging | ChIP-seq |
+| Confocal and Widefield Microscopy | bulkRNA-seq |
 | RNA Isolation and cDNA Synthesis | FIJI |
 | scRNA-seq library prep | Imaris |
 | Genotyping with PCR and Western blot ||
