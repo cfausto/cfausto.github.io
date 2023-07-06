@@ -37,15 +37,20 @@ colorize <- function(x, color) {
   } else x
 }
 ```
+---
 
 ## `r colorize("Bio", pal5)`
-<br>
+
+---
+
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ---
 
 ## `r colorize("Research", pal5)`
-<br>
+
+---
+
 I currently study human kidney development in the [`r colorize("Lindstrom Lab", pal1)`](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
 
 I hope to leverage *in vitro*  **`r colorize("hiPSC kidney organoids", pal5)`**, **`r colorize("multi-omic sequencing", pal5)`**, and **`r colorize("high-resolution imaging", pal5)`** to create developmental blueprints for kidney organogenesis.
@@ -55,6 +60,8 @@ I am highly motivated to build off our past atlases of [`r colorize("human", pal
 ---
 
 ### `r colorize("Education", pal5)`
+
+---
 
 |  |  |
 |:---------------------------------------------|:----------------|
@@ -73,6 +80,8 @@ I am highly motivated to build off our past atlases of [`r colorize("human", pal
 ---
 
 ## `r colorize("Technical Skills", pal5)`
+
+---
 
 |  |  |
 |:------------------------------------------------|:--------------------|
