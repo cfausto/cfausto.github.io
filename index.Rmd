@@ -12,6 +12,7 @@ links:
     url: "https://www.linkedin.com/in/connor-fausto-187847128/"
   - label: '`r fontawesome::fa("github-square", fill = "#63D4FD")` GitHub'
     url: "https://github.com/cfausto"
+    
 output:
   postcards::trestles
 ---
