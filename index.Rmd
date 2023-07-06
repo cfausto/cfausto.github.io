@@ -8,6 +8,8 @@ links:
     url: "https://github.com/cfausto"
   - label: Email
     url: "mailto:cfausto@usc.edu"
+  - label: CV
+    url: "https://bit.ly/CCF_CV_2023-07-06"
 output:
   postcards::trestles
 ---
@@ -17,16 +19,19 @@ library(fontawesome)
 ```
 
 ## Bio
-
+<br>
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
+<br>
 
 ## Research Focus
-
+<br>
 I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. I hope to leverage *in vitro* hiPSC kidney organoids, and multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
 
-I am highly motivated to build off our past atlases of [human^1^](https://sckidney.flatironinstitute.org/) and [mouse^2^](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
+I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
+<br>
 
-## Education 2
+### Education
+<br>
 
 |  |  |
 |:---------------------------------------------|:----------------|
@@ -38,14 +43,10 @@ I am highly motivated to build off our past atlases of [human^1^](https://sckidn
 |<br>|   |
 | **University of Southern California, Los Angeles** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
-
-<details><summary>Click here for explanation</summary
-
-Some text
-
-</details>
+<br>
 
 ## Technical Skills
+<br>
 
 |  |  |
 |:------------------------------------------------|:--------------------|
@@ -59,6 +60,8 @@ Some text
 | RNA Isolation and cDNA Synthesis | FIJI |
 | scRNA-seq library prep | Imaris |
 | Genotyping with PCR and Western blot ||
+<br>
 
-
-
+## In the Press
+<br>
+June 2023 \| [USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX](https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/) 
