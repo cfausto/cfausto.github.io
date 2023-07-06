@@ -18,7 +18,7 @@ Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine 
 
 ## Research Focus
 
-I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). We are highly motivated to build an atlas of [human]((https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy.
+I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). We are highly motivated to build an atlas of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy.
 
 My main project studies the Wnt/β-catenin pathway and its link to the nascent nephron's cell identities and morphogenetic features, and how misprogrammed signals lead to congenital abnormalities of the kidney. 
 
