@@ -43,13 +43,15 @@ B.S. in Business Administration \| August 2016 - May 2020
 ## Education 2
 
 |  |  |
-|:-------------------------------|:-----------|
-| Ph.D. in Development, Stem Cells, and Regenerative Medicine |&#124; 2023 - Present 
-| University of Southern California |&#124; Los Angeles |
-| M.Sc. in Stem Cell Biology and Regenerative Medicine |&#124; 2020 - 2021 
-| University of Southern California |&#124; Los Angeles |
-| B.Sc. in Business Administration |&#124; 2016 - 2020 
-| University of Southern California |&#124; Los Angeles |
+|:---------------------------------------------|:----------------|
+| **University of Southern California, Los Angeles** | [2023 - Present]{style="float:right"} |
+| Ph.D. in Development, Stem Cells, and Regenerative Medicine |
+|<br>|   |
+| **University of Southern California, Los Angeles** | 2020 - 2021  |
+| M.Sc. in Stem Cell Biology and Regenerative Medicine ||
+|<br>|   |
+| **University of Southern California, Los Angeles** | 2016 - 2020 |
+| B.Sc. in Business Administration ||
 
 
 ## Research Experience
