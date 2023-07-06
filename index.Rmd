@@ -21,11 +21,12 @@ library(fontawesome)
 
 # define colors
 pal1 = "#63D4FD" # pale azure
+pal4 = "#AFE9FE" # non-photo blue, 20% lighter
+pal6 = "#40B8E0" # 20% darker
 pal2 = "#EA7E5D" # burnt sienna
 pal3 = "#EC8C6F" # coral
-pal4 = "#AFE9FE" # non-photo blue
 pal5 = "#8C1721" # carmine
-pal6 = "#40B8E0" # aero
+pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
 
 # colorize text
 colorize <- function(x, color) {
@@ -37,20 +38,15 @@ colorize <- function(x, color) {
   } else x
 }
 ```
----
 
 ## `r colorize("Bio", pal5)`
-
----
-
+<br>
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ---
 
 ## `r colorize("Research", pal5)`
-
----
-
+<br>
 I currently study human kidney development in the [`r colorize("Lindstrom Lab", pal1)`](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
 
 I hope to leverage *in vitro*  **`r colorize("hiPSC kidney organoids", pal5)`**, **`r colorize("multi-omic sequencing", pal5)`**, and **`r colorize("high-resolution imaging", pal5)`** to create developmental blueprints for kidney organogenesis.
@@ -61,27 +57,23 @@ I am highly motivated to build off our past atlases of [`r colorize("human", pal
 
 ### `r colorize("Education", pal5)`
 
----
-
 |  |  |
 |:---------------------------------------------|:----------------|
-| **`r colorize("University of Southern California, Los Angeles", pal6)`** | [2023 - ]{style="float:right"} |
+| **`r colorize("University of Southern California, Los Angeles", pal7)`** | [2023 - ]{style="float:right"} |
 | Ph.D. in Development, Stem Cells, and Regenerative Medicine |
 |<br>|   |
-| **`r colorize("Cold Spring Harbor Laboratory, New York", pal6)`** | [Summer 2023]{style="float:right"} |
+| **`r colorize("Cold Spring Harbor Laboratory, New York", pal7)`** | [Summer 2023]{style="float:right"} |
 | Statistical Analysis of Genome Scale Data |
 |<br>|   |
-| **`r colorize("University of Southern California, Los Angeles", pal6)`** | [2020 - 2021]{style="float:right"}  |
+| **`r colorize("University of Southern California, Los Angeles", pal7)`** | [2020 - 2021]{style="float:right"}  |
 | M.Sc. in Stem Cell Biology and Regenerative Medicine ||
 |<br>|   |
-| **`r colorize("University of Southern California, Los Angeles", pal6)`** | [2016 - 2020]{style="float:right"} |
+| **`r colorize("University of Southern California, Los Angeles", pal7)`** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
 
 ---
 
 ## `r colorize("Technical Skills", pal5)`
-
----
 
 |  |  |
 |:------------------------------------------------|:--------------------|
