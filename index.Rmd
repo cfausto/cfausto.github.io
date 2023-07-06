@@ -2,13 +2,13 @@
 title: "Connor Fausto"
 image: "CCF-Profile-Pic.png"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("linkedin", fill = "#800020")` LinkedIn'
     url: "https://www.linkedin.com/in/connor-fausto-187847128/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github-square", fill = "#800020")` GitHub'
     url: "https://github.com/cfausto"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "#800020")` GitHub'
     url: "mailto:cfausto@usc.edu"
-  - label: CV
+  - label: '`r fontawesome::fa("graduation-cap", fill = "#800020")` GitHub'
     url: "https://bit.ly/CCF_CV_2023-07-06"
 output:
   postcards::trestles
@@ -21,14 +21,14 @@ library(fontawesome)
 ## Bio
 <br>
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
-<br>
+
 
 ## Research Focus
 <br>
 I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. I hope to leverage *in vitro* hiPSC kidney organoids, and multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
 
 I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
-<br>
+
 
 ### Education
 <br>
