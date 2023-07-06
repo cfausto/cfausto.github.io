@@ -12,12 +12,11 @@ links:
     url: "https://www.linkedin.com/in/connor-fausto-187847128/"
   - label: '`r fontawesome::fa("github-square", fill = "#63D4FD")` GitHub'
     url: "https://github.com/cfausto"
-    
 output:
   postcards::trestles
 ---
-
-```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
+  
+  ```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 
 # define colors
@@ -35,20 +34,20 @@ colorize <- function(x, color) {
     sprintf("\\textcolor{%s}{%s}", color, x)
   } else if (knitr::is_html_output()) {
     sprintf("<span style='color: %s;'>%s</span>", color,
-      x)
+            x)
   } else x
 }
 ```
 
 ## Bio
 <br>
-Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
+  Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ---
-
+  
 ## Research
-<br>
-I currently study human kidney development in the [Lindstrom Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
+  <br>
+  I currently study human kidney development in the [Lindstrom Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
 
 
 I hope to leverage *in vitro*  hiPSC kidney organoids, multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
@@ -56,9 +55,9 @@ I hope to leverage *in vitro*  hiPSC kidney organoids, multi-omic sequencing, an
 I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
 
 ---
-
+  
 ### Education
-
+  
 |  |  |
 |:---------------------------------------------|:----------------|
 | **University of Southern California, Los Angeles** | [2023 - ]{style="float:right"} |
@@ -72,11 +71,11 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 |<br>|   |
 | **University of Southern California, Los Angeles** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
-
+  
 ---
-
+  
 ## Technical Skills
-
+  
 |  |  |
 |:------------------------------------------------|:--------------------|
 | `r fontawesome::fa("flask", fill = "#AFE9FE")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#AFE9FE")` **Bioinformatic** |
@@ -89,15 +88,15 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 | RNA Isolation and cDNA Synthesis | FIJI |
 | scRNA-seq library prep | Imaris |
 | Genotyping with PCR and Western blot ||
-
+  
 ---
-
+  
 ## In the Press
 <br>
 June 2023 \| [USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX](https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/) 
 
 ---
-
+  
 ### Hobbies
 <br>
 You can usually find me surfing, rock-climbing, or training brazilian jiu-jitsu! I also love cooking and yoga.
