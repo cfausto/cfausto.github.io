@@ -12,6 +12,10 @@ output:
   postcards::trestles
 ---
 
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
 ## Bio
 
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine study Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities. 
@@ -35,6 +39,18 @@ B.S. in Computer Science \| August 2020 - May 2021
 **University of Southern California** \| Los Angeles, CA
 
 B.S. in Business Administration \| August 2016 - May 2020
+
+## Education 2
+
+|  |  |
+|:-------------------------------|:-----------|
+| Ph.D. in Development, Stem Cells, and Regenerative Medicine |&#124; 2023 - Present 
+| University of Southern California |&#124; Los Angeles |
+| M.Sc. in Stem Cell Biology and Regenerative Medicine |&#124; 2020 - 2021 
+| University of Southern California |&#124; Los Angeles |
+| B.Sc. in Business Administration |&#124; 2016 - 2020 
+| University of Southern California |&#124; Los Angeles |
+
 
 ## Research Experience
 
