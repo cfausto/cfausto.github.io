@@ -18,44 +18,47 @@ library(fontawesome)
 
 ## Bio
 
-Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine study Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities. 
+Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ## Research Focus
 
-I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). We are highly motivated to build an atlas of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy.
+I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. I hope to leverage *in vitro* hiPSC kidney organoids, and multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
 
-My main project studies the Wnt/β-catenin pathway and its link to the nascent nephron's cell identities and morphogenetic features, and how misprogrammed signals lead to congenital abnormalities of the kidney. 
-
-## Education
-
-**University of Southern California** \| Los Angeles, CA
-
-Ph.D. in Development, Stem Cells, and Regenerative Medicine \| August 2023 - Present
-
-**University of Southern California** \| Los Angeles, CA
-
-B.S. in Computer Science \| August 2020 - May 2021
-
-**University of Southern California** \| Los Angeles, CA
-
-B.S. in Business Administration \| August 2016 - May 2020
+I am highly motivated to build off our past atlases of [human^1^](https://sckidney.flatironinstitute.org/) and [mouse^2^](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
 
 ## Education 2
 
 |  |  |
 |:---------------------------------------------|:----------------|
-| **University of Southern California, Los Angeles** | [2023 - Present]{style="float:right"} |
+| **University of Southern California, Los Angeles** | [2023 - ]{style="float:right"} |
 | Ph.D. in Development, Stem Cells, and Regenerative Medicine |
 |<br>|   |
-| **University of Southern California, Los Angeles** | 2020 - 2021  |
+| **University of Southern California, Los Angeles** | [2020 - 2021]{style="float:right"}  |
 | M.Sc. in Stem Cell Biology and Regenerative Medicine ||
 |<br>|   |
-| **University of Southern California, Los Angeles** | 2016 - 2020 |
+| **University of Southern California, Los Angeles** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
 
+<details><summary>Click here for explanation</summary
 
-## Research Experience
+Some text
 
-**Google Brain** \| Principal Investigator \| January 2018 - Present
+</details>
 
-**Morsut Lab** \| Graduate Research Assistant \| June 2014 - December 2017
+## Technical Skills
+
+|  |  |
+|:------------------------------------------------|:--------------------|
+| **Experimental** | **Bioinformatic** |
+| hiPSC Cell Culture | R |
+| Directed Organoid Differentiation | bash/linux/HPC |
+| Immunofluorescent Staining | sc/snRNA-seq Analyses |
+| Microsurgery Dissection (<100µm) | sc/snRNA-seq Analyses |
+| Live Tissue Imaging | sc/snATAC-seq Analyses |
+| Confocal and Widefield Microscopy | bulkRNA-seq Analyses |
+| RNA Isolation and cDNA Synthesis | FIJI |
+| scRNA-seq library prep | Imaris |
+| Genotyping with PCR and Western blot ||
+
+
+
