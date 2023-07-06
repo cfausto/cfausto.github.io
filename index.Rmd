@@ -2,13 +2,13 @@
 title: "Connor Fausto"
 image: "CCF-Profile-Pic.png"
 links:
-  - label: '`r fontawesome::fa("envelope", fill = "#3FB8E0")` Email'
+  - label: '`r fontawesome::fa("envelope", fill = "#63D4FD")` Email'
     url: "mailto:cfausto@usc.edu"
   - label: '`r fontawesome::fa("graduation-cap", fill = "#63D4FD")` CV'
     url: "https://bit.ly/CCF_CV_2023-07-06"
-  - label: '`r fontawesome::fa("twitter", fill = "#3FB8E0")` Twitter'
+  - label: '`r fontawesome::fa("twitter", fill = "#63D4FD")` Twitter'
     url: "https://twitter.com/connfau"
-  - label: '`r fontawesome::fa("linkedin", fill = "#3FB8E0")` LinkedIn'
+  - label: '`r fontawesome::fa("linkedin", fill = "#63D4FD")` LinkedIn'
     url: "https://www.linkedin.com/in/connor-fausto-187847128/"
   - label: '`r fontawesome::fa("github-square", fill = "#63D4FD")` GitHub'
     url: "https://github.com/cfausto"
@@ -16,47 +16,67 @@ output:
   postcards::trestles
 ---
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
+
+# define colors
+pal1 = "#63D4FD" # pale azure
+pal2 = "#EA7E5D" # burnt sienna
+pal3 = "#EC8C6F" # coral
+pal4 = "#AFE9FE" # non-photo blue
+pal5 = "#8C1721" # carmine
+pal6 = "#40B8E0" # aero
+
+# colorize text
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color,
+      x)
+  } else x
+}
 ```
 
-## Bio
+## `r colorize("Bio", pal5)`
 <br>
 Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ---
 
-## Research Focus
+## `r colorize("Research", pal5)`
 <br>
-I currently study human kidney development in the [Lindström Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. I hope to leverage *in vitro* hiPSC kidney organoids, multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
+I currently study human kidney development in the [`r colorize("Lindstrom Lab", pal1)`](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
 
-I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
+I hope to leverage *in vitro*  **`r colorize("hiPSC kidney organoids", pal5)`**, **`r colorize("multi-omic sequencing", pal5)`**, and **`r colorize("high-resolution imaging", pal5)`** to create developmental blueprints for kidney organogenesis.
+
+I am highly motivated to build off our past atlases of [`r colorize("human", pal1)`](https://sckidney.flatironinstitute.org/) and [`r colorize("mouse", pal1)`](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
 
 ---
 
-### Education
+### `r colorize("Education", pal5)`
 
 |  |  |
 |:---------------------------------------------|:----------------|
-| **University of Southern California, Los Angeles** | [2023 - ]{style="float:right"} |
+| **`r colorize("University of Southern California, Los Angeles", pal6)`** | [2023 - ]{style="float:right"} |
 | Ph.D. in Development, Stem Cells, and Regenerative Medicine |
 |<br>|   |
-| **Cold Spring Harbor Laboratory, New York** | [Summer 2023]{style="float:right"} |
+| **`r colorize("Cold Spring Harbor Laboratory, New York", pal6)`** | [Summer 2023]{style="float:right"} |
 | Statistical Analysis of Genome Scale Data |
 |<br>|   |
-| **University of Southern California, Los Angeles** | [2020 - 2021]{style="float:right"}  |
+| **`r colorize("University of Southern California, Los Angeles", pal6)`** | [2020 - 2021]{style="float:right"}  |
 | M.Sc. in Stem Cell Biology and Regenerative Medicine ||
 |<br>|   |
-| **University of Southern California, Los Angeles** | [2016 - 2020]{style="float:right"} |
+| **`r colorize("University of Southern California, Los Angeles", pal6)`** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
 
 ---
 
-## Technical Skills
+## `r colorize("Technical Skills", pal5)`
 
 |  |  |
 |:------------------------------------------------|:--------------------|
-| `r fontawesome::fa("flask", fill = "#63D4FD")` **Experimental**  | `r fontawesome::fa("bar-chart", fill = "#63D4FD")` **Bioinformatic**  |
+| `r fontawesome::fa("flask", fill = "#AFE9FE")` **`r colorize("Experimental", pal6)`**  | `r fontawesome::fa("bar-chart", fill = "#AFE9FE")` **`r colorize("Bioinformatic", pal6)`**  |
 | hiPSC Cell Culture | R `r fontawesome::fa("r-project", fill = "gray")` |
 | Directed Organoid Differentiation | bash/linux/HPC `r fontawesome::fa("linux", fill = "gray")` |
 | Immunofluorescent Staining | sc/snRNA-seq |
@@ -69,13 +89,13 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
 
 ---
 
-## In the Press
+## `r colorize("In the Press", pal5)`
 <br>
-June 2023 \| [USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX](https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/) 
+June 2023 \| [`r colorize("USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX", pal1)`](https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/) 
 
 ---
 
-### Hobbies
+### `r colorize("Hobbies", pal5)`
 <br>
 You can usually find me surfing, rock-climbing, or training brazilian jiu-jitsu! I also love cooking and yoga.
 
