@@ -16,27 +16,9 @@ output:
   postcards::trestles
 ---
   
-  ```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
+```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 
-# define colors
-pal1 = "#63D4FD" # pale azure
-pal4 = "#AFE9FE" # non-photo blue, 20% lighter
-pal6 = "#40B8E0" # 20% darker
-pal2 = "#EA7E5D" # burnt sienna
-pal3 = "#EC8C6F" # coral
-pal5 = "#8C1721" # carmine
-pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
-
-# colorize text
-colorize <- function(x, color) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{%s}{%s}", color, x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: %s;'>%s</span>", color,
-            x)
-  } else x
-}
 ```
 
 ## Bio
