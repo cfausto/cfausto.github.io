@@ -19,44 +19,51 @@ output:
 ```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 
+pal1 = "#63D4FD" # pale azure
+pal4 = "#AFE9FE" # non-photo blue, 20% lighter
+pal6 = "#40B8E0" # 20% darker
+pal2 = "#EA7E5D" # burnt sienna
+pal3 = "#EC8C6F" # coral
+pal5 = "#8C1721" # carmine
+pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
+
 ```
 
-## Bio
+## <span style="color:  #63D4FD;"> Bio</span>
 <br>
   Welcome to my page! I am an incoming PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ---
   
-## Research
+## <span style="color:  #63D4FD;"> Research</span>
   <br>
-  I currently study human kidney development in the [Lindstrom Lab](https://lindstromlab.usc.edu/), with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
+  I currently study human kidney development in the **<a href="https://lindstromlab.usc.edu/"><span style="color:  #63D4FD;"> Lindström Lab</span></a>**, with an emphasis on the nephron (filtration unit of the kidney). I am specifically interested in the Wnt/β-catenin pathway's link to the nascent nephron's cell identities and morphogenetic features. 
 
+I hope to leverage *in vitro*  **<span style="color:  #63D4FD;"> hiPSC kidney organoids</span>**, **<span style="color:  #63D4FD;"> multi-omic sequencing</span>**, and **<span style="color:  #63D4FD;"> high-resolution imaging</span>** to create developmental blueprints for kidney organogenesis.
 
-I hope to leverage *in vitro*  hiPSC kidney organoids, multi-omic sequencing, and high-resolution imaging to create developmental blueprints for kidney organogenesis.
-
-I am highly motivated to build off our past atlases of [human](https://sckidney.flatironinstitute.org/) and [mouse](https://cello.shinyapps.io/kidneycellexplorer/) nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
+I am highly motivated to build off our past atlases of **<a href="https://sckidney.flatironinstitute.org/"><span style="color:  #63D4FD;"> human</span></a>** and **<a href="https://cello.shinyapps.io/kidneycellexplorer/"><span style="color:  #63D4FD;"> mouse</span></a>** nephrogenesis to create regenerative cell types for therapeutic discovery and renal replacement therapy. 
 
 ---
   
-### Education
-  
+## <span style="color:  #63D4FD;"> Education</span>
+
 |  |  |
-|:---------------------------------------------|:----------------|
-| **University of Southern California, Los Angeles** | [2023 - ]{style="float:right"} |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #63D4FD;"> University of Southern California, Los Angeles</span>** | [2023 - ]{style="float:right"} |
 | Ph.D. in Development, Stem Cells, and Regenerative Medicine |
 |<br>|   |
-| **Cold Spring Harbor Laboratory, New York**| [Summer 2023]{style="float:right"} |
+| **<span style="color:  #63D4FD;"> Cold Spring Harbor Laboratory, New York</span>**| [Summer 2023]{style="float:right"} |
 | Statistical Analysis of Genome Scale Data |
 |<br>|   |
-| **University of Southern California, Los Angeles**  | [2020 - 2021]{style="float:right"}  |
+| **<span style="color:  #63D4FD;"> University of Southern California, Los Angeles</span>**  | [2020 - 2021]{style="float:right"}  |
 | M.Sc. in Stem Cell Biology and Regenerative Medicine ||
 |<br>|   |
-| **University of Southern California, Los Angeles** | [2016 - 2020]{style="float:right"} |
+| **<span style="color:  #63D4FD;"> University of Southern California, Los Angeles</span>** | [2016 - 2020]{style="float:right"} |
 | B.Sc. in Business Administration ||
   
 ---
   
-## Technical Skills
+## <span style="color:  #63D4FD;"> Technical Skills</span>
   
 |  |  |
 |:------------------------------------------------|:--------------------|
@@ -73,13 +80,13 @@ I am highly motivated to build off our past atlases of [human](https://sckidney.
   
 ---
   
-## In the Press
+## <span style="color:  #63D4FD;"> In the Press</span>
 <br>
-June 2023 \| [USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX](https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/) 
+June 2023 \| <a href="https://keck.usc.edu/usc-stem-cells-journey-towards-1000-mini-kidneys-begins-with-1-million-from-kidneyx/"><span style="color:  #63D4FD;"> USC Stem Cell’s journey towards 1,000 mini-kidneys begins with $1 million from KidneyX</span></a>
 
 ---
   
-### Hobbies
+## <span style="color:  #63D4FD;"> Hobbies</span>
 <br>
 You can usually find me surfing, rock-climbing, or training brazilian jiu-jitsu! I also love cooking and yoga.
 
