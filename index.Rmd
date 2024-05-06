@@ -82,7 +82,7 @@ I am highly motivated to build off our past atlases of **<a href="https://sckidn
 
 ## <span style="color:  #63D4FD;"> Publications</span>
 <br>
-Biao Huang, Zipeng Zeng, Sunghyun Kim, **<span style="color:  #63D4FD;"> Connor C. Fausto</span>**, Kari Koppitch, Hui Li, Zexu Li, Xi Chen, Jinjin Guo, Chennan Cc Zhang, Tianyi Ma, Pedro Medina, Megan E. Schreiber, Mateo W. Xia, Ariel C. Vonk, Tianyuan Xiang, Tadrushi Patel, Yidan Li, Riana K. Parvez, Balint Der, Jyun Hao Chen, Zhenqing Liu, Matthew E. Thornton, Brendan H. Grubbs, Yarui Diao, Yali Dou, Ksenia Gnedeva, Qilong Ying, Nuria M. Pastor-Soler, Teng Fei, Keneth R. Hallows, Nils O. Lindström, Andrew P. McMahon, Zhongwei Li. Long-term expandable mouse and human-induced nephron progenitor cells enable kidney organoid maturation and modeling of plasticity and disease, Cell Stem Cell (2024), https//doi.org/10.1016/jstem.2024-4.002 (<a href="https://pubmed.ncbi.nlm.nih.gov/38692273/">Link</a>)
+Biao Huang, Zipeng Zeng, Sunghyun Kim, **<span style="color:  #63D4FD;"> Connor C. Fausto</span>**, Kari Koppitch, **...** ,  Nils O. Lindström, Andrew P. McMahon, Zhongwei Li. Long-term expandable mouse and human-induced nephron progenitor cells enable kidney organoid maturation and modeling of plasticity and disease, Cell Stem Cell (2024), https//doi.org/10.1016/jstem.2024-4.002 (<a href="https://pubmed.ncbi.nlm.nih.gov/38692273/">Link</a>)
 
 ---
   
