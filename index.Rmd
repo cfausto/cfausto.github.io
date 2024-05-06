@@ -88,7 +88,11 @@ Biao Huang^\*^, Zipeng Zeng^\*^, Sunghyun Kim^\*\*^, **<span style="color:  #63D
   
 ## <span style="color:  #63D4FD;"> Presentations </span>
 <br>
-March 19, 2024 \| NIH+CZI Junior Investigators Atlas Builders Meeting \| **<span style="color:  #63D4FD;">Delineating Tumorigenic Programs from Developmental Blueprints</span>** \| 8-minute talk presenting ongoing project aimed to understand developmental lesions that cause tumorigenesis in pediatric cancers with an embryonic origin, using the Wilms Tumor as a model.
+March 19, 2024 \| NIH+CZI Junior Investigators Atlas Builders Meeting
+<br>
+<span style="color:  #63D4FD;"> **Delineating Tumorigenic Programs from Developmental Origins**</span>
+<br>
+8-minute talk presenting ongoing project aimed to understand developmental lesions that cause tumorigenesis in pediatric cancers with an embryonic origin, using the Wilms Tumor as a model.
 
 ---
 
