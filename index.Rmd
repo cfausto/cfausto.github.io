@@ -31,7 +31,7 @@ pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
 
 ## <span style="color:  #63D4FD;"> Bio</span>
 <br>
-  Welcome to my page! I am a 1st year PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
+  Welcome to my page! I am a 2nd year PhD Student at the Keck School of Medicine studying Development, Stem Cells, and Regenerative Medicine. I am highly interested in understanding the genetic regulatory networks and molecular signal pathways that drive developmental patterns, and hope to use these pathways to treat chronic disease and congenital abnormalities.
 
 ---
   
@@ -82,12 +82,32 @@ I am highly motivated to build off our past atlases of **<a href="https://sckidn
 
 ## <span style="color:  #63D4FD;"> Publications</span>
 <br>
+**<span style="color:  #63D4FD;"> Connor C. Fausto^\*^</span>**, Fokion Glykofrydis^\*^, Navneet Kumar, Jack Schnell, Reka L. Csipan, Faith De Kuyper, Brendan Grubbs, Matthew Thornton, MaryAnne Achieng, Leonardo Morsut, Nils O. Lindström. Defining and Controlling Axial Nephron Patterning in Human Kidney Organoids with Synthetic Wnt-Secreting Organizers, BioRxiv (2024), https://doi.org/10.1101/2024.11.30.626171 (<a href="https://www.biorxiv.org/content/10.1101/2024.11.30.626171v1.abstract?%3Fcollection=">Link</a>)
+
+<br>
+Jack Schnell, Zhen Miao, MaryAnne Achieng, **<span style="color:  #63D4FD;"> Connor C. Fausto</span>**, Victoria Wang, Faith De Kuyper, Matthew E. Thornton, Brendan Grubbs, Junhyong Kim, Nils O. Lindström. Stepwise developmental mimicry generates proximal-biased kidney organoids, BioRxiv (2024), https://doi.org/10.1101/2024.06.28.601028 (<a href="https://www.biorxiv.org/content/10.1101/2024.06.28.601028v1">Link</a>)
+
+<br>
 Biao Huang^\*^, Zipeng Zeng^\*^, Sunghyun Kim^\*\*^, **<span style="color:  #63D4FD;"> Connor C. Fausto^\*\*^</span>**, Kari Koppitch^\*\*^, **...** ,  Nils O. Lindström, Andrew P. McMahon, Zhongwei Li. Long-term expandable mouse and human-induced nephron progenitor cells enable kidney organoid maturation and modeling of plasticity and disease, Cell Stem Cell (2024), https//doi.org/10.1016/jstem.2024-4.002 (<a href="https://pubmed.ncbi.nlm.nih.gov/38692273/">Link</a>)
 
 ---
   
 ## <span style="color:  #63D4FD;"> Presentations </span>
 <br>
+September 4, 2024 \| (Re)Building a Kidney Consortium 2024 Fall Meeting
+<br>
+<span style="color:  #63D4FD;"> **Correcting Kidney Organoid Patterning with Synthetic Developmental Organizers**</span>
+<br>
+10-minute talk presenting ongoing project aimed to pattern human kidney organoids with synthetic Wnt-secreting cellular organizers.
+<br>
+
+July 13, 2024 \| International Society of Stem Cell Research 2024 Annual Meeting
+<br>
+<span style="color:  #63D4FD;"> **Correcting Kidney Organoid Patterning with Synthetic Developmental Organizers**</span>
+<br>
+10-minute talk presenting ongoing project aimed to pattern human kidney organoids with synthetic Wnt-secreting cellular organizers.
+<br>
+
 March 19, 2024 \| NIH+CZI Junior Investigators Atlas Builders Meeting
 <br>
 <span style="color:  #63D4FD;"> **Delineating Tumorigenic Programs from Developmental Origins**</span>
@@ -112,4 +132,4 @@ You can usually find me surfing, rock-climbing, or training brazilian jiu-jitsu!
 
 --- 
 
-Last Updated: 2024-05-14
+Last Updated: 2024-12-03
